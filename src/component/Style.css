@@ -1,0 +1,48 @@
+.container-head{
+    background-color: #045de9;
+    background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+    text-align: center;
+    color: black;
+    padding: 0.5pc;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+ul{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ol{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+input{
+    height: 2pc;
+    width: 25%;
+    margin: 3px;
+}
+
+.fa-magnifying-glass{
+    margin-left: 5px;
+    color: white;
+}
+
+
+span{
+    color: whitesmoke;
+    font-size: 1.5pc;
+    font-weight: bold;
+}
+
+
